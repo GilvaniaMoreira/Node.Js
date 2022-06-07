@@ -6,18 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GilvaniaMoreira/Node.Js.git"
   },
+
   "keywords": [
     "node",
     "server"
   ],
+
   "author": "Gilvania Moreira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GilvaniaMoreira/Node.Js/issues"
   },
+  
   "homepage": "https://github.com/GilvaniaMoreira/Node.Js#readme"
 }
